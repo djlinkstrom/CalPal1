@@ -10,7 +10,7 @@
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372951227362" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372950014625" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
-    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372952266808" ignored="false" />
+    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372952620489" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <file leaf-file-name="Darren.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Darren.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="15" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.33633092">
+            <state line="23" column="20" selection-start="774" selection-end="774" vertical-scroll-proportion="0.24460432">
               <folding />
             </state>
           </provider>
@@ -400,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Darren.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="15" selection-start="1012" selection-end="1012" vertical-scroll-proportion="0.33633092">
+        <state line="23" column="20" selection-start="774" selection-end="774" vertical-scroll-proportion="0.24460432">
           <folding />
         </state>
       </provider>
