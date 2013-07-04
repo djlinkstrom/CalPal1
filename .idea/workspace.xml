@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="afdasdffff">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Darren.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,6 +12,7 @@
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949929174" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372950014625" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
+    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372950698829" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,7 +44,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="60" selection-start="715" selection-end="715" vertical-scroll-proportion="-18.961538">
+            <state line="13" column="23" selection-start="401" selection-end="401" vertical-scroll-proportion="-8.5">
               <folding />
             </state>
           </provider>
@@ -50,7 +53,16 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="42" selection-start="214" selection-end="214" vertical-scroll-proportion="0.1528777">
+            <state line="15" column="36" selection-start="534" selection-end="534" vertical-scroll-proportion="0.4586331">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Darren.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Darren.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="3" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,6 +90,7 @@
         <option value="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/lib/Darren.js" />
       </list>
     </option>
   </component>
@@ -336,7 +349,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+        <state line="6" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -375,14 +388,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="60" selection-start="715" selection-end="715" vertical-scroll-proportion="-18.961538">
+        <state line="13" column="23" selection-start="401" selection-end="401" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Darren.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="3" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="42" selection-start="214" selection-end="214" vertical-scroll-proportion="0.1528777">
+        <state line="15" column="36" selection-start="534" selection-end="534" vertical-scroll-proportion="0.4586331">
           <folding />
         </state>
       </provider>
