@@ -60,7 +60,7 @@
       <file leaf-file-name="Darren.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Darren.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="20" selection-start="774" selection-end="774" vertical-scroll-proportion="0.24460432">
+            <state line="15" column="39" selection-start="444" selection-end="444" vertical-scroll-proportion="0.24460432">
               <folding />
             </state>
           </provider>
@@ -384,13 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="292" selection-end="292" vertical-scroll-proportion="-4.576923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="55" selection-start="238" selection-end="289" vertical-scroll-proportion="0.0">
@@ -398,9 +391,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="292" selection-end="292" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/Darren.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="20" selection-start="774" selection-end="774" vertical-scroll-proportion="0.24460432">
+        <state line="15" column="39" selection-start="444" selection-end="444" vertical-scroll-proportion="0.24460432">
           <folding />
         </state>
       </provider>
