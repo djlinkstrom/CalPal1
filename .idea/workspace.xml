@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="afdasdffff">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/main_2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\index_2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\main_2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/parse-1.2.8.min.js" afterPath="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +33,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,16 +42,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="7" selection-start="763" selection-end="763" vertical-scroll-proportion="1.1184211">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index_2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="10" column="33" selection-start="385" selection-end="385" vertical-scroll-proportion="0.31954888">
               <folding />
             </state>
           </provider>
@@ -63,16 +51,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="32" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_2.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/main_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="8" column="58" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -358,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -395,30 +374,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index_2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
+        <state line="8" column="58" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="7" selection-start="763" selection-end="763" vertical-scroll-proportion="1.1184211">
+        <state line="10" column="33" selection-start="385" selection-end="385" vertical-scroll-proportion="0.31954888">
           <folding />
         </state>
       </provider>
