@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="afdasdffff">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +34,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -51,7 +52,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.58093524">
+            <state line="5" column="3" selection-start="175" selection-end="175" vertical-scroll-proportion="0.1528777">
               <folding />
             </state>
           </provider>
@@ -347,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -400,7 +401,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="634" selection-end="634" vertical-scroll-proportion="0.58093524">
+        <state line="5" column="3" selection-start="175" selection-end="175" vertical-scroll-proportion="0.1528777">
           <folding />
         </state>
       </provider>
