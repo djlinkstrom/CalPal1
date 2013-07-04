@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="afdasdffff">
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\index_2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\main_2.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372941283942" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372947358616" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372944295331" ignored="false" />
-    <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372944842977" ignored="false" />
+    <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949558256" ignored="false" />
+    <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +33,25 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="33" selection-start="385" selection-end="385" vertical-scroll-proportion="0.31954888">
+            <state line="10" column="33" selection-start="385" selection-end="385" vertical-scroll-proportion="-6.5384617">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="58" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+            <state line="41" column="28" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.9082734">
               <folding />
             </state>
           </provider>
@@ -168,7 +168,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/phonegap-workshop-master" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
@@ -337,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -374,16 +374,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="58" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+        <state line="10" column="33" selection-start="385" selection-end="385" vertical-scroll-proportion="-6.5384617">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="33" selection-start="385" selection-end="385" vertical-scroll-proportion="0.31954888">
+        <state line="41" column="28" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.9082734">
           <folding />
         </state>
       </provider>
