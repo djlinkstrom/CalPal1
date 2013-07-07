@@ -21,7 +21,7 @@
 
     <div data-role="content">
 
-        <form id="addNote">
+        <form id="addNote" action="#confirmation">
 
             <p>
                 <input type="text" id="firstName" placeHolder="First Name">
@@ -31,9 +31,9 @@
             </p>
             <p>
                 <a href="#confirmation" data-rel="dialog" data-transition="pop"
-                   data-role="button">Create User</a>
+                   data-role="button" id="addNoteBtn">Create User</a>
 
-                <input type="submit" id="addNoteBtn" value="Add User">
+                <input type="submit"  value="Add User">
 
             </p>
 
