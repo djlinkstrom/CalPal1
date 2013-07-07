@@ -7,11 +7,11 @@
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373203381145" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373203798899" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373203356834" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372950014625" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
-    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373203234966" ignored="false" />
+    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373204019518" ignored="false" />
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373202074837" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <file leaf-file-name="Darren.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Darren.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="4" selection-start="1594" selection-end="1622" vertical-scroll-proportion="0.16164383">
+            <state line="57" column="27" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.62739724">
               <folding />
             </state>
           </provider>
@@ -298,7 +298,11 @@
       <created>1373203385135</created>
       <updated>1373203385135</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Made CalPal Changes in WebStorm">
+      <created>1373203802670</created>
+      <updated>1373203802670</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -464,7 +468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Darren.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="4" selection-start="1594" selection-end="1622" vertical-scroll-proportion="0.16164383">
+        <state line="57" column="27" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.62739724">
           <folding />
         </state>
       </provider>
