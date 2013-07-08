@@ -8,7 +8,7 @@
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373244742625" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373245413807" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373245391925" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372950014625" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -45,7 +45,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="45" selection-start="627" selection-end="627" vertical-scroll-proportion="-3.2307692">
+            <state line="34" column="0" selection-start="1151" selection-end="1151" vertical-scroll-proportion="-9.115385">
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="Darren.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Darren.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="31" selection-start="2040" selection-end="2040" vertical-scroll-proportion="0.6520548">
+            <state line="58" column="49" selection-start="2043" selection-end="2043" vertical-scroll-proportion="0.6637681">
               <folding />
             </state>
           </provider>
@@ -101,15 +101,16 @@
         <option value="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
         <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/confirmation.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/Darren.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
+    <option name="y" value="11" />
     <option name="width" value="1382" />
-    <option name="height" value="728" />
+    <option name="height" value="721" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -341,23 +342,27 @@
       <created>1373244746337</created>
       <updated>1373244746337</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Made CalPal Changes in WebStorm">
+      <created>1373245417407</created>
+      <updated>1373245417407</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1382" height="728" extended-state="0" />
+    <frame x="-8" y="11" width="1382" height="721" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6718213" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.66014236" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3281787" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33985764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -516,14 +521,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="45" selection-start="627" selection-end="627" vertical-scroll-proportion="-3.2307692">
+        <state line="34" column="0" selection-start="1151" selection-end="1151" vertical-scroll-proportion="-9.115385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Darren.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="31" selection-start="2040" selection-end="2040" vertical-scroll-proportion="0.6520548">
+        <state line="58" column="49" selection-start="2043" selection-end="2043" vertical-scroll-proportion="0.6637681">
           <folding />
         </state>
       </provider>
