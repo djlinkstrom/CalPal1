@@ -20,24 +20,55 @@
     </div>
 
     <div data-role="content">
+        <a href="#registration" data-rel="dialog" data-transition="pop"
+           data-role="button" id="reg">Register</a>
+        <a href="#login" data-rel="dialog" data-transition="pop"
+           data-role="button" id="log">Login</a>
+    </div>
+</div>
+
+<div data-role="page" id="registration">
+    <div data-role="header">
+        <h1>CalPal Registration</h1>
+    </div>
+
+    <div data-role="content">
         <div id="regStatus"></div>
         <form id="addNote" >
 
             <p>
+
                 <input type="text" id="firstName" placeHolder="First Name">
                 <input type="text" id="lastName" placeHolder="Last Name">
                 <input type="text" id="eMail" placeHolder="E-Mail Address">
                 <input type="text" id="phoneNumber" placeHolder="Phone Number">
             </p>
             <p>
-                <a href="#" data-rel="dialog" data-transition="pop"
-                   data-role="button" id="addNoteBtn">Create User</a>
+                <a href="#confirmation" data-rel="dialog" data-transition="pop"
+                   data-role="button" id="addUserBtn">Create User</a>
             </p>
 
         </form>
     </div>
+
 </div>
 
+<div data-role="page" id="login">
+    <div data-role="header">
+        <h1>CalPal Login</h1>
+    </div>
+    <div data-role="content">
+        <p>
+            <input type="text" id="username" placeHolder="First Name">
+            <input type="text" id="password" placeHolder="Password">
+        </p>
+        <p>
+            <a href="#confirmation" data-rel="dialog" data-transition="pop"
+               data-role="button" id="LoginBtn">Login</a>
+        </p>
+
+    </div>
+</div>
 
 <div data-role="page" id="confirmation">
 
