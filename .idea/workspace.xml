@@ -8,7 +8,7 @@
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373839221253" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373841003630" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840968748" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -42,19 +42,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="28" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.62695926">
+            <state line="36" column="28" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-7.6923075">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="8" selection-start="1835" selection-end="1859" vertical-scroll-proportion="0.0">
+            <state line="63" column="8" selection-start="2209" selection-end="2233" vertical-scroll-proportion="0.29565218">
               <folding />
             </state>
           </provider>
@@ -368,7 +368,11 @@
       <created>1373839225967</created>
       <updated>1373839225967</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Made CalPal Changes in WebStorm">
+      <created>1373841007702</created>
+      <updated>1373841007702</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -548,16 +552,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="8" selection-start="1835" selection-end="1859" vertical-scroll-proportion="0.0">
+        <state line="36" column="28" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-7.6923075">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="28" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.62695926">
+        <state line="63" column="8" selection-start="2209" selection-end="2233" vertical-scroll-proportion="0.29565218">
           <folding />
         </state>
       </provider>
