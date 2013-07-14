@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/channel.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/Darren.js" afterPath="$PROJECT_DIR$/lib/Darren.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/confirmation.html" afterPath="$PROJECT_DIR$/confirmation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373246374547" ignored="false" />
-    <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247395154" ignored="false" />
-    <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372950014625" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247399030" ignored="false" />
+    <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373839098052" ignored="false" />
+    <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373836314955" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
-    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247242735" ignored="false" />
-    <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373202074837" ignored="false" />
+    <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
+    <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.0">
+            <state line="16" column="0" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,16 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="38" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.30721003">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="confirmation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/confirmation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="647" selection-end="669" vertical-scroll-proportion="-9.115385">
+            <state line="40" column="0" selection-start="1391" selection-end="1391" vertical-scroll-proportion="0.14733543">
               <folding />
             </state>
           </provider>
@@ -63,7 +57,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="55" selection-start="238" selection-end="289" vertical-scroll-proportion="0.0">
+            <state line="54" column="21" selection-start="1766" selection-end="1766" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,7 +66,16 @@
       <file leaf-file-name="Darren.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Darren.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="11" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0">
+            <state line="7" column="41" selection-start="0" selection-end="3052" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="confirmation.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/confirmation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="36" selection-start="658" selection-end="658" vertical-scroll-proportion="-7.6923075">
               <folding />
             </state>
           </provider>
@@ -99,9 +102,11 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
-        <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/lib/confirmation.html" />
         <option value="$PROJECT_DIR$/confirmation.html" />
         <option value="$PROJECT_DIR$/lib/Darren.js" />
+        <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/channel.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -358,7 +363,11 @@
       <created>1373246403773</created>
       <updated>1373246403773</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Made CalPal Changes in WebStorm">
+      <created>1373247403954</created>
+      <updated>1373247403954</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -464,7 +473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="1713" selection-end="1713" vertical-scroll-proportion="0.0">
+        <state line="16" column="0" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -517,30 +526,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="55" selection-start="238" selection-end="289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/confirmation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="647" selection-end="669" vertical-scroll-proportion="-9.115385">
+        <state line="23" column="36" selection-start="658" selection-end="658" vertical-scroll-proportion="-7.6923075">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Darren.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="11" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0">
+        <state line="7" column="41" selection-start="0" selection-end="3052" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="59" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="21" selection-start="1766" selection-end="1766" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="38" selection-start="1458" selection-end="1458" vertical-scroll-proportion="0.30721003">
+        <state line="40" column="0" selection-start="1391" selection-end="1391" vertical-scroll-proportion="0.14733543">
           <folding />
         </state>
       </provider>
