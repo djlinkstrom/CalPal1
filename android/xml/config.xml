@@ -20,15 +20,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         id        = "io.cordova.helloCordova"
         version   = "2.0.0">
-    <name>Hello Cordova</name>
+    <name>CalPal</name>
 
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A sample Apache Cordova application.
     </description>
 
-    <author href="http://cordova.io" email="dev@cordova.apache.org">
-        Apache Cordova Team
+    <author >
+        Darren Linkstrom
     </author>
+
 
     <access origin="*"/>
 
@@ -101,7 +102,13 @@
     <feature name="InAppBrowser">
       <param name="android-package" value="org.apache.cordova.InAppBrowser"/>
     </feature>
+
+
     <!-- Deprecated plugins element. Remove in 3.0 -->
     <plugins>
+
     </plugins>
+
 </widget>
+
+

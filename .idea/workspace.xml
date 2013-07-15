@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/xml/config.xml" afterPath="$PROJECT_DIR$/android/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373841629589" ignored="false" />
-    <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840968748" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850949066" ignored="false" />
+    <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373846068782" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
+    <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850581884" ignored="false" />
+    <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +42,37 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+            <state line="52" column="0" selection-start="3453" selection-end="3453" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="34" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.62695926">
+            <state line="104" column="35" selection-start="2758" selection-end="2758" vertical-scroll-proportion="-68.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facebook-js-sdk.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/facebook-js-sdk.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14578" column="17" selection-start="499568" selection-end="499568" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1373850658525" expanded="false" signature="148118:148129" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="39" selection-start="290" selection-end="290" vertical-scroll-proportion="0.35207102">
               <folding />
             </state>
           </provider>
@@ -102,8 +130,14 @@
         <option value="$PROJECT_DIR$/confirmation.html" />
         <option value="$PROJECT_DIR$/lib/Darren.js" />
         <option value="$PROJECT_DIR$/channel.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/android/xml/facebook-js-sdk.js" />
+        <option value="$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/android/xml/config.xml" />
+        <option value="$PROJECT_DIR$/android/config.xml" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
       </list>
     </option>
   </component>
@@ -157,62 +191,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CalPal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CalPal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CalPal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CalPal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -221,7 +199,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="last_opened_file_path" value="$USER_HOME$/phonegap-workshop-master" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -231,6 +209,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\CalPal\lib" />
       <recent name="C:\Users\User\CalPal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\CalPal" />
+      <recent name="C:\Users\User\CalPal\lib" />
+      <recent name="C:\Users\User\CalPal\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -375,23 +358,47 @@
       <created>1373841634401</created>
       <updated>1373841634401</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Made CalPal Changes in WebStorm">
+      <created>1373841913544</created>
+      <updated>1373841913544</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="11" width="1382" height="721" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291815" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.66014236" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6708185" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33985764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33985764" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -465,13 +472,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="36" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
@@ -481,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+        <state line="52" column="0" selection-start="3453" selection-end="3453" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -490,7 +490,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -514,13 +514,6 @@
     <entry file="file://$PROJECT_DIR$/lib/parse-1.2.8.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="17685" selection-start="81755" selection-end="81755" vertical-scroll-proportion="0.06238532">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/xml/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0493151">
           <folding />
         </state>
       </provider>
@@ -562,9 +555,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="2" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.90144926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="4" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.66096866">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="34" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.62695926">
+        <state line="104" column="35" selection-start="2758" selection-end="2758" vertical-scroll-proportion="-68.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/facebook-js-sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14578" column="17" selection-start="499568" selection-end="499568" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1373850658525" expanded="false" signature="148118:148129" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="39" selection-start="290" selection-end="290" vertical-scroll-proportion="0.35207102">
           <folding />
         </state>
       </provider>
