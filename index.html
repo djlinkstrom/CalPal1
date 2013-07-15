@@ -32,8 +32,8 @@
         <a href="#login" data-rel="dialog" data-transition="pop"
            data-role="button" id="log">Login</a>
         <div class="login">
-            <a onclick="promptLogin()" class="login-button">
-                <span>Login</span>
+            <a data-role="button" onclick="promptLogin()" class="login-button">
+                <span>Login Facebook</span>
             </a>
         </div>
     </div>
@@ -98,20 +98,24 @@
 </div>
 
 
-<script>
-    // Initialize the Facebook SDK
-    alert("In Fbook init");
+
+
+<script type="text/javascript">
     document.addEventListener('deviceready', function() {
+        // window.fbAsyncInit = function() {
+        alert("In Fbook init");
         FB.init({
             appId: '428574547256032',
             nativeInterface: CDV.FB,
+            status     : true, // check login status
+            //cookie     : true, // enable cookies to allow the server to access the session
+            // xfbml: true,
             useCachedDialogs: false
         });
-
-        FB.getLoginStatus(handleStatusChange);
-
-        authUser();
-        updateAuthElements();
+        //FB.Event.subscribe('auth.statusChange', handleStatusChange);
+        alert("In Fbook init2");
+        //FB.getLoginStatus(handleStatusChange);
+        alert("In Fbook init3");
     });
 </script>
 

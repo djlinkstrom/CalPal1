@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850982166" ignored="false" />
-    <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373851321612" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373851550964" ignored="false" />
+    <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373851989967" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="0" selection-start="3549" selection-end="3549" vertical-scroll-proportion="0.0">
+            <state line="55" column="0" selection-start="3325" selection-end="3325" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +46,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="36" selection-start="836" selection-end="836" vertical-scroll-proportion="0.47076923">
+            <state line="116" column="10" selection-start="3229" selection-end="3229" vertical-scroll-proportion="0.7323077">
               <folding />
             </state>
           </provider>
@@ -141,8 +139,8 @@
         <option value="$PROJECT_DIR$/android/config.xml" />
         <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
         <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -385,7 +383,11 @@
       <created>1373850997188</created>
       <updated>1373850997188</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Made CalPal Changes in WebStorm">
+      <created>1373851555329</created>
+      <updated>1373851555329</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -504,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="3549" selection-end="3549" vertical-scroll-proportion="0.0">
+        <state line="55" column="0" selection-start="3325" selection-end="3325" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -610,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="36" selection-start="836" selection-end="836" vertical-scroll-proportion="0.47076923">
+        <state line="116" column="10" selection-start="3229" selection-end="3229" vertical-scroll-proportion="0.7323077">
           <folding />
         </state>
       </provider>
