@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/auth.js" afterPath="$PROJECT_DIR$/lib/auth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373853396675" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854103291" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373853875506" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
-    <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373851249555" ignored="false" />
+    <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854281335" ignored="false" />
     <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
+    <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854234076" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.0">
+            <state line="38" column="0" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,7 +49,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="34" selection-start="3029" selection-end="3029" vertical-scroll-proportion="0.36615384">
+            <state line="113" column="14" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.5753846">
               <folding />
             </state>
           </provider>
@@ -55,7 +58,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="42" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.0">
+            <state line="94" column="6" selection-start="6592" selection-end="6592" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,7 +76,7 @@
       <file leaf-file-name="auth.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="1" selection-start="4910" selection-end="4910" vertical-scroll-proportion="0.0">
+            <state line="101" column="23" selection-start="4054" selection-end="4054" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -129,9 +132,9 @@
         <option value="$PROJECT_DIR$/android/xml/config.xml" />
         <option value="$PROJECT_DIR$/android/config.xml" />
         <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
-        <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/lib/auth.js" />
         <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/lib/auth.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -391,7 +394,11 @@
       <created>1373853400665</created>
       <updated>1373853400665</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Made CalPal Changes in WebStorm">
+      <created>1373854106984</created>
+      <updated>1373854106984</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -503,7 +510,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.0">
+        <state line="38" column="0" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -586,15 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="1" selection-start="4910" selection-end="4910" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/Darren.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="35" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
@@ -609,16 +607,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="23" selection-start="4054" selection-end="4054" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="42" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.0">
+        <state line="94" column="6" selection-start="6592" selection-end="6592" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="34" selection-start="3029" selection-end="3029" vertical-scroll-proportion="0.36615384">
+        <state line="113" column="14" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.5753846">
           <folding />
         </state>
       </provider>
