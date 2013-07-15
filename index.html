@@ -29,13 +29,15 @@
     </div>
 
     <div data-role="content">
+        <p>You can create a new user on this pge. The value you enter in fName will be the username.
+            Appropriate handling is in place for duplicate user names and email addresses.</p>
         <a href="#registration" data-rel="dialog" data-transition="pop"
            data-role="button" id="reg">Register</a>
         <a href="#login" data-rel="dialog" data-transition="pop"
            data-role="button" id="log">Login</a>
         <div class="login">
             <a data-role="button" onclick="promptLogin()" class="login-button">
-                <span>Login Facebook</span>
+                <span>Login Facebook (not working)</span>
             </a>
         </div>
     </div>
@@ -105,7 +107,7 @@
 <script>
     // Initialize the Facebook SDK
     alert("In Fbook init");
-    document.addEventListener('deviceready', function() {
+    $(document).ready(function() {
         alert("In Fbook init1");
         FB.init({
             appId: '428574547256032',
