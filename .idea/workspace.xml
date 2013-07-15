@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/auth.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373852240015" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373852682847" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373852626149" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -39,16 +37,16 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="2527" selection-end="2527" vertical-scroll-proportion="0.0">
+            <state line="35" column="0" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="55" selection-start="593" selection-end="593" vertical-scroll-proportion="59.5">
+            <state line="13" column="39" selection-start="549" selection-end="549" vertical-scroll-proportion="0.68">
               <folding />
             </state>
           </provider>
@@ -57,7 +55,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="120" selection-start="4930" selection-end="4930" vertical-scroll-proportion="0.0">
+            <state line="60" column="42" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -72,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="auth.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="1" selection-start="4910" selection-end="4910" vertical-scroll-proportion="6.387574">
+            <state line="130" column="1" selection-start="4910" selection-end="4910" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -385,7 +383,11 @@
       <created>1373852244989</created>
       <updated>1373852244989</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Made CalPal Changes in WebStorm">
+      <created>1373852687981</created>
+      <updated>1373852687981</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -497,7 +499,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="2527" selection-end="2527" vertical-scroll-proportion="0.0">
+        <state line="35" column="0" selection-start="2333" selection-end="2333" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -571,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="120" selection-start="4930" selection-end="4930" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="48" selection-start="382" selection-end="382" vertical-scroll-proportion="-5.44">
@@ -594,10 +589,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/lib/auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="55" selection-start="593" selection-end="593" vertical-scroll-proportion="59.5">
-          <folding />
+        <state line="130" column="1" selection-start="4910" selection-end="4910" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -608,12 +605,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/auth.js">
+    <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="1" selection-start="4910" selection-end="4910" vertical-scroll-proportion="6.387574">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="60" column="42" selection-start="3986" selection-end="3986" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="549" selection-end="549" vertical-scroll-proportion="0.68">
+          <folding />
         </state>
       </provider>
     </entry>

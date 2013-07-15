@@ -11,6 +11,7 @@
     <script src="lib/jquery.mobile-1.3.1.min.js"></script>
     <script src="lib/cdv-plugin-fb-connect.js"></script>
     <script src="lib/facebook-js-sdk.js"></script>
+    <script src="phonegap.js"></script>
     <LINK href="css/jquery.mobile-1.3.1.min.css" rel="stylesheet" type="text/css">
 
 </head>
@@ -105,10 +106,12 @@
     // Initialize the Facebook SDK
     alert("In Fbook init");
     document.addEventListener('deviceready', function() {
+        alert("In Fbook init1");
         FB.init({
             appId: '428574547256032',
             nativeInterface: CDV.FB,
-            useCachedDialogs: false
+            useCachedDialogs: false,
+            xfbml      : true
         });
         alert("In Fbook init 2");
         FB.getLoginStatus(handleStatusChange);
