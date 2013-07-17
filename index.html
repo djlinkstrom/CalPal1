@@ -119,6 +119,14 @@
 
         authUser();
         FB.getLoginStatus(handleStatusChange);
+        FB.getLoginStatus(function(response) {
+            if (response.status == "connected") {
+                alert("yes I am in ");
+            }
+            else{
+                alert(" you need to login to facebook:");
+            }
+        });
         //updateAuthElements();
     });
 </script>
