@@ -107,12 +107,10 @@
 
 <script>
     // Initialize the Facebook SDK
-    alert("In Fbook init");
     $(document).ready(function() {
-        alert("In Fbook init1");
         FB.init({
             appId: '428574547256032',
-            //nativeInterface: CDV.FB,
+            nativeInterface: CDV.FB,
             useCachedDialogs: false,
             xfbml      : true
         });
