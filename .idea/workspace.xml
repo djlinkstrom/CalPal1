@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/auth.js" afterPath="$PROJECT_DIR$/lib/auth.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854103291" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854354025" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373853875506" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
-    <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854281335" ignored="false" />
+    <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374022530218" ignored="false" />
     <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
     <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373854234076" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,25 +39,25 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.0">
+            <state line="37" column="0" selection-start="2561" selection-end="2561" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="14" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.5753846">
+            <state line="122" column="46" selection-start="3401" selection-end="3401" vertical-scroll-proportion="-11.423077">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="6" selection-start="6592" selection-end="6592" vertical-scroll-proportion="0.0">
+            <state line="57" column="35" selection-start="3833" selection-end="3833" vertical-scroll-proportion="0.8476454">
               <folding />
             </state>
           </provider>
@@ -134,16 +133,16 @@
         <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
         <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/lib/auth.js" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="11" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="721" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -398,7 +397,11 @@
       <created>1373854106984</created>
       <updated>1373854106984</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Made CalPal Changes in WebStorm">
+      <created>1373854358227</created>
+      <updated>1373854358227</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -422,15 +425,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="11" width="1382" height="721" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32562277" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291815" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31623933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6708185" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6837607" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -510,7 +513,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.0">
+        <state line="37" column="0" selection-start="2561" selection-end="2561" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -577,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="48" selection-start="382" selection-end="382" vertical-scroll-proportion="-5.44">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/facebook-js-sdk.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9105" column="41" selection-start="314071" selection-end="314077" vertical-scroll-proportion="-4.16">
@@ -607,6 +603,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="48" selection-start="382" selection-end="382" vertical-scroll-proportion="-1.6638176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="101" column="23" selection-start="4054" selection-end="4054" vertical-scroll-proportion="0.0">
@@ -616,16 +619,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="6" selection-start="6592" selection-end="6592" vertical-scroll-proportion="0.0">
+        <state line="122" column="46" selection-start="3401" selection-end="3401" vertical-scroll-proportion="-11.423077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="14" selection-start="3133" selection-end="3133" vertical-scroll-proportion="0.5753846">
+        <state line="57" column="35" selection-start="3833" selection-end="3833" vertical-scroll-proportion="0.8476454">
           <folding />
         </state>
       </provider>
