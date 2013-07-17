@@ -7,7 +7,7 @@
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025462141" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025676409" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025455398" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -15,7 +15,7 @@
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
     <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374022530218" ignored="false" />
     <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
-    <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374023716630" ignored="false" />
+    <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374026012890" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="47" selection-start="917" selection-end="917" vertical-scroll-proportion="-6.8461537">
+            <state line="32" column="47" selection-start="917" selection-end="917" vertical-scroll-proportion="10.807693">
               <folding />
             </state>
           </provider>
@@ -74,7 +74,7 @@
       <file leaf-file-name="auth.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="10" selection-start="4140" selection-end="4140" vertical-scroll-proportion="0.2825485">
+            <state line="44" column="112" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.51800555">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -412,7 +412,11 @@
       <created>1374025466648</created>
       <updated>1374025466648</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Made CalPal Changes in WebStorm">
+      <created>1374025682513</created>
+      <updated>1374025682513</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -614,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="49" selection-start="3504" selection-end="3504" vertical-scroll-proportion="0.0">
@@ -630,14 +627,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="47" selection-start="917" selection-end="917" vertical-scroll-proportion="-6.8461537">
+        <state line="32" column="47" selection-start="917" selection-end="917" vertical-scroll-proportion="10.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="10" selection-start="4140" selection-end="4140" vertical-scroll-proportion="0.2825485">
+        <state line="44" column="112" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.51800555">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
