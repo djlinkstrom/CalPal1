@@ -45,7 +45,7 @@ var meals = [
 		"id" : "pizza",
 		"title" : "Pizza",
 		"url" : "http://gentle-bastion-5329.herokuapp.com.herokuapp.com/pizza.html"
-	},
+	}
 ];
 
 // DOCUMENT-READY FUNCTIONS
