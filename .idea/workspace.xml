@@ -1,29 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="Made CalPal Changes in WebStorm">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/main.js" afterPath="$PROJECT_DIR$/www/js/main.js" />
+    <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\.index.html.swp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\cdv-plugin-fb-connect.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\cheeseburger.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\chinese.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\base.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\images\icons-18-black.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\images\icons-18-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\images\icons-36-black.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\images\icons-36-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\css\jquery.mobile-1.2.0.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\facebook-js-sdk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\french.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\hotdog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\action-eating.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\action-location.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\action-people.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meal.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\cheeseburger-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\cheeseburger.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\cheeseburger@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\chinese-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\chinese.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\chinese@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\french-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\french.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\french@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\hotdog-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\hotdog.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\hotdog@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\indian-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\indian.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\indian@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\italian-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\italian.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\italian@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\pizza-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\pizza.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\pizza@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\thai-full.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\thai.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\meals\thai@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\scrumptious_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\images\scrumptious_logo_large.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\indian.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\italian.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\js\jquery.mobile-1.2.0.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\js\mustache.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\meal.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\pizza.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\icon\ios\icon-57-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\icon\ios\icon-57.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\icon\ios\icon-72-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\icon\ios\icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-ipad-landscape-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-ipad-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-ipad-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-ipad-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-iphone-landscape-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-iphone-landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-iphone-portrait-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\res\screen\ios\screen-iphone-portrait.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\User\CalPal\www\thai.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374114329718" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374114656528" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025455398" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
     <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374022530218" ignored="false" />
-    <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113972903" ignored="false" />
+    <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
     <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374026012890" ignored="false" />
-    <file path="/chinese.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113226696" ignored="false" />
-    <file path="/cheeseburger.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113232945" ignored="false" />
-    <file path="/french.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113252884" ignored="false" />
-    <file path="/hotdog.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113267458" ignored="false" />
-    <file path="/indian.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113282200" ignored="false" />
-    <file path="/italian.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113306637" ignored="false" />
-    <file path="/thai.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113328333" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,69 +103,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="2337" selection-end="2337" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="37" selection-start="3377" selection-end="3379" vertical-scroll-proportion="0.3962617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="49" selection-start="3504" selection-end="3504" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/main.js">
+        <entry file="file://$PROJECT_DIR$/lib/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="92" selection-start="5845" selection-end="5845" vertical-scroll-proportion="-6.56">
+            <state line="94" column="55" selection-start="2939" selection-end="2939" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <file leaf-file-name="auth.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="45" column="79" selection-start="1613" selection-end="1615" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="facebook-js-sdk.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/facebook-js-sdk.js">
+      <file leaf-file-name="Darren.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Darren.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="872" column="61" selection-start="25926" selection-end="25926" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1374113987333" expanded="false" signature="136656:136667" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cdv-plugin-fb-connect.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/cdv-plugin-fb-connect.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="6" column="35" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugin.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/plugin.xml">
+      <file leaf-file-name="confirmation.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/confirmation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="65" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/jquery.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="50" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-5.230769">
+            <state line="23" column="36" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,22 +185,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
+        <option value="$PROJECT_DIR$/lib/confirmation.html" />
+        <option value="$PROJECT_DIR$/confirmation.html" />
+        <option value="$PROJECT_DIR$/lib/Darren.js" />
+        <option value="$PROJECT_DIR$/channel.html" />
+        <option value="$PROJECT_DIR$/android/xml/facebook-js-sdk.js" />
+        <option value="$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js" />
+        <option value="$PROJECT_DIR$/android/xml/config.xml" />
+        <option value="$PROJECT_DIR$/android/config.xml" />
         <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
         <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/lib/auth.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/thai.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/pizza.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/italian.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/indian.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/hotdog.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/french.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/cheeseburger.html" />
-        <option value="$PROJECT_DIR$/example/Scrumptious/server/chinese.html" />
-        <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/facebook-js-sdk.js" />
-        <option value="$PROJECT_DIR$/www/js/main.js" />
       </list>
     </option>
   </component>
@@ -181,7 +235,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,41 +263,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CalPal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.externalResources" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/phonegap-workshop-master" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -455,23 +491,7 @@
       <created>1374028135452</created>
       <updated>1374028135452</updated>
     </task>
-    <task id="LOCAL-00040" summary="Made CalPal Changes in WebStorm">
-      <created>1374113125001</created>
-      <updated>1374113125001</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Made CalPal Changes in WebStorm">
-      <created>1374113747630</created>
-      <updated>1374113747630</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Made CalPal Changes in WebStorm">
-      <created>1374113862952</created>
-      <updated>1374113862952</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Made CalPal Changes in WebStorm">
-      <created>1374114021161</created>
-      <updated>1374114021161</updated>
-    </task>
-    <option name="localTasksCounter" value="44" />
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -496,13 +516,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32820514" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32562277" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6717949" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6837607" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -512,6 +531,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31623933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -581,56 +601,96 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="50" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-5.230769">
+        <state line="35" column="0" selection-start="2337" selection-end="2337" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/jquery.js">
+    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/facebook-js-sdk.js">
+    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="872" column="61" selection-start="25926" selection-end="25926" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1374113987333" expanded="false" signature="136656:136667" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/cdv-plugin-fb-connect.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/parse-1.2.8.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17685" selection-start="81755" selection-end="81755" vertical-scroll-proportion="0.06238532" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/cordova.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-9.707386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="36" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/plugin.xml">
+    <entry file="file://$PROJECT_DIR$/channel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="65" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
+        <state line="0" column="59" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="4" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.66096866" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/facebook-js-sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9105" column="41" selection-start="314071" selection-end="314077" vertical-scroll-proportion="-4.16" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Darren.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="35" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/main.js">
+    <entry file="file://$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="92" selection-start="5845" selection-end="5845" vertical-scroll-proportion="-6.56">
+        <state line="8" column="48" selection-start="382" selection-end="382" vertical-scroll-proportion="-1.6638176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="49" selection-start="3504" selection-end="3504" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="94" column="55" selection-start="2939" selection-end="2939" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="79" selection-start="1613" selection-end="1615" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="37" selection-start="3377" selection-end="3379" vertical-scroll-proportion="0.3962617">
           <folding />
         </state>
       </provider>
