@@ -2,11 +2,265 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Andy_Bernard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Angela_Martin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/ApplicationInfo/ApplicationInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CalPal2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Creed_Bratton.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Dwight_Schrute.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Jim_Halpert.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Kelly_Kapoor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Kevin_Malone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Meredith_Palmer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Michael_Scott.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Oscar_Martinez.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Pamela_Beesly.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Phyllis_Lapin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ryan_Howard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Stanley_Hudson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Toby_Flenderson.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/appinfo.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/appinfo.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/cordova-2.9.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/libs/cordova-2.9.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/img/cordova.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/img/cordova.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/bada/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/tizen/icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/windows-phone/icon-173-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/icon/android/icon-36-ldpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/icon/android/icon-36-ldpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/android/icon-36-ldpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/icon/android/icon-48-mdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/icon/android/icon-48-mdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/android/icon-48-mdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/bada-wac/icon-48-type5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/windows-phone/icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/bada-wac/icon-50-type3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/ios/icon-57-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/ios/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/windows-phone/icon-62-tile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/webos/icon-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/ios/icon-72-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/icon/android/icon-72-hdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/icon/android/icon-72-hdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/android/icon-72-hdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/ios/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/bada-wac/icon-80-type4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/blackberry/icon-80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/icon/android/icon-96-xhdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/icon/android/icon-96-xhdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/icon/android/icon-96-xhdpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/res/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/res/drawable-ldpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/res/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/res/drawable-xhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-ldpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/drawable-xhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/blackberry/screen-225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/webos/screen-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-hdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-hdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-hdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-hdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-hdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-hdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-ipad-landscape-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-ipad-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-ipad-portrait-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-ipad-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-iphone-landscape-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-iphone-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-iphone-portrait-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-iphone-portrait-568h-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/ios/screen-iphone-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-ldpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-ldpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-ldpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-ldpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-ldpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-ldpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-mdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-mdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-mdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-mdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-mdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-mdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/windows-phone/screen-portrait.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/bada/screen-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/bada-wac/screen-type3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/bada-wac/screen-type4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/bada-wac/screen-type5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-xhdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-xhdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-xhdpi-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/res/screen/android/screen-xhdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/res/screen/android/screen-xhdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/android/screen-xhdpi-portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/unknown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/Activity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/ApplicationInfo/ApplicationInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Darren.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/screen/tizen/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/ant.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/auth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/channel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/check_reqs.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/check_reqs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/check_reqs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/clean" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/clean" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/xml/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/xml/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/cordova.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/create.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/create.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/create" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/src/org/apache/cordova/example/example.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/install-device.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/install-device" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/lib/install-device" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/install-emulator.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/install-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/lib/install-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/iscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec/lib/jasmine-1.2.0/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec/lib/jasmine-1.2.0/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec/lib/jasmine-1.2.0/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec/lib/jasmine-1.2.0/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec/lib/jasmine-1.2.0/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mobile-1.3.1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mobile-1.3.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery.mobile-1.3.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mobile-1.3.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mobile-1.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery.mobile-1.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mobile.structure-1.3.1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mobile.structure-1.3.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mobile.theme-1.3.1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mobile.theme-1.3.1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/list-devices.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/list-devices" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/lib/list-devices" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/list-emulator-images.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/list-emulator-images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/lib/list-emulator-images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/list-started-emulators.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/list-started-emulators" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/lib/list-started-emulators" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/log.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storage/ls-store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/main)old.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/master.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/master.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storage/memory-store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/parse-1.2.8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/parse-1.2.8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/source-sans-pro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/project/assets/www/spec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/assets/www/spec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/start-emulator.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/lib/start-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/lib/start-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/tests/test_create_unix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/tests/test_create_win.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/update.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/update" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/version.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/bin/templates/cordova/version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/example/cordova/version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storage/websql-store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374114662533" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374114755117" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025455398" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -37,7 +291,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="0" selection-start="9807" selection-end="9807" vertical-scroll-proportion="0.0">
+            <state line="289" column="0" selection-start="30478" selection-end="30478" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,7 +300,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="93" selection-start="3660" selection-end="3660" vertical-scroll-proportion="0.81238276">
+            <state line="134" column="93" selection-start="3660" selection-end="3660" vertical-scroll-proportion="1.2697947">
               <folding />
             </state>
           </provider>
@@ -426,7 +680,11 @@
       <created>1374114671323</created>
       <updated>1374114671323</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Made CalPal Changes in WebStorm">
+      <created>1374114690329</created>
+      <updated>1374114690329</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -451,13 +709,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32820514" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32562277" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6837607" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6717949" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -536,18 +794,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="0" selection-start="9807" selection-end="9807" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -623,9 +869,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.mobile.structure-1.3.1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1602" column="26" selection-start="63456" selection-end="63456" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/parse-1.2.8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="6" selection-start="2604" selection-end="2604" vertical-scroll-proportion="0.33242506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="93" selection-start="3660" selection-end="3660" vertical-scroll-proportion="0.81238276">
+        <state line="134" column="93" selection-start="3660" selection-end="3660" vertical-scroll-proportion="1.2697947">
           <folding />
         </state>
       </provider>
