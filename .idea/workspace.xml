@@ -2,226 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.idea\phonegap-workshop-master.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.equinox.p2.ui\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\.metadata\version.ini" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\NOTICE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\VERSION" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\check_reqs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\check_reqs.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\check_reqs.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\create" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\create.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\create.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\create.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\ApplicationInfo\ApplicationInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\ApplicationInfo\ApplicationInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\appinfo.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\build" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\build.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\clean" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\clean.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\cordova.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\install-device" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\install-device.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\install-emulator" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\install-emulator.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\list-devices" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\list-devices.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\list-emulator-images" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\list-emulator-images.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\list-started-emulators" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\list-started-emulators.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\start-emulator" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\lib\start-emulator.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\log.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\run" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\run.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\version" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\cordova\version.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\Activity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\css\index.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\img\cordova.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\js\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\master.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\icon\android\icon-36-ldpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\icon\android\icon-48-mdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\icon\android\icon-72-hdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\icon\android\icon-96-xhdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-hdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-hdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-ldpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-ldpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-mdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-mdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-xhdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\res\screen\android\screen-xhdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec\helper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec\lib\jasmine-1.2.0\jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\assets\www\spec\lib\jasmine-1.2.0\jasmine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\res\drawable-hdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\res\drawable-ldpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\res\drawable-mdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\res\drawable-xhdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\templates\project\res\drawable\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\tests\test_create_unix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\tests\test_create_win.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\update" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\update.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\bin\update.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\cordova-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\ant.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\css\index.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\img\cordova.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\js\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\master.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\icon\android\icon-36-ldpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\icon\android\icon-48-mdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\icon\android\icon-72-hdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\icon\android\icon-96-xhdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-hdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-hdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-ldpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-ldpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-mdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-mdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-xhdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\res\screen\android\screen-xhdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec\helper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec\index.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec\lib\jasmine-1.2.0\jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\assets\www\spec\lib\jasmine-1.2.0\jasmine.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\build.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\appinfo.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\build" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\clean" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\lib\install-device" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\lib\install-emulator" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\lib\list-devices" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\lib\list-emulator-images" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\lib\list-started-emulators" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\lib\start-emulator" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\log" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\run" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\cordova\version" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\libs\cordova-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\project.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-hdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-ldpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-ldpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-mdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable-xhdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\drawable\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\layout\main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\res\xml\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\example\src\org\apache\cordova\example\example.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\android\xml\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\channel.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\confirmation.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\jquery.mobile-1.3.1.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\jquery.mobile-1.3.1.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\jquery.mobile.structure-1.3.1.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\jquery.mobile.structure-1.3.1.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\jquery.mobile.theme-1.3.1.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\jquery.mobile.theme-1.3.1.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\source-sans-pro.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Andy_Bernard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Angela_Martin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Creed_Bratton.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Dwight_Schrute.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Jim_Halpert.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Kelly_Kapoor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Kevin_Malone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Meredith_Palmer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Michael_Scott.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Oscar_Martinez.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Pamela_Beesly.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Phyllis_Lapin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Ryan_Howard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Stanley_Hudson.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\Toby_Flenderson.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\img\unknown.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\jquery.mobile-1.3.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\jquery.mobile-1.3.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\parse-1.2.8.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\storage\ls-store.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\storage\memory-store.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\js\storage\websql-store.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\Darren.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\auth.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\cdv-plugin-fb-connect.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\facebook-js-sdk.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\iscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\jquery-1.8.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\jquery.mobile-1.3.1.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\jquery.mobile-1.3.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\main)old.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\parse-1.2.8.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\User\CalPal\lib\parse-1.2.8.min.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\User\CalPal\readme.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374111651873" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113105554" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025455398" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -230,6 +15,13 @@
     <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374022530218" ignored="false" />
     <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
     <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374026012890" ignored="false" />
+    <file path="/chinese.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113226696" ignored="false" />
+    <file path="/cheeseburger.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113232945" ignored="false" />
+    <file path="/french.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113252884" ignored="false" />
+    <file path="/hotdog.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113267458" ignored="false" />
+    <file path="/indian.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113282200" ignored="false" />
+    <file path="/italian.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113306637" ignored="false" />
+    <file path="/thai.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113328333" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +40,26 @@
     <favorites_list name="phonegap-workshop-master" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="5" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.33205375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="50" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -267,21 +78,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/lib/parse-1.2.8.min.js" />
-        <option value="$PROJECT_DIR$/lib/confirmation.html" />
-        <option value="$PROJECT_DIR$/confirmation.html" />
-        <option value="$PROJECT_DIR$/lib/Darren.js" />
-        <option value="$PROJECT_DIR$/channel.html" />
-        <option value="$PROJECT_DIR$/android/xml/facebook-js-sdk.js" />
-        <option value="$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js" />
-        <option value="$PROJECT_DIR$/android/xml/config.xml" />
         <option value="$PROJECT_DIR$/android/config.xml" />
         <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
         <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/lib/auth.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/thai.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/pizza.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/italian.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/indian.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/hotdog.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/french.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/cheeseburger.html" />
+        <option value="$PROJECT_DIR$/example/Scrumptious/server/chinese.html" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/main.js" />
       </list>
     </option>
   </component>
@@ -333,6 +145,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CalPal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-workshop-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CalPal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-workshop-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CalPal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -559,7 +403,11 @@
       <created>1374028135452</created>
       <updated>1374028135452</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Made CalPal Changes in WebStorm">
+      <created>1374113125001</created>
+      <updated>1374113125001</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -584,12 +432,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32562277" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6837607" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6837607" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -599,7 +448,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31623933" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -669,89 +517,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="4089" selection-end="4089" vertical-scroll-proportion="0.031021899">
+        <state line="26" column="50" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-5.230769">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.1.min.js">
+    <entry file="file://$PROJECT_DIR$/www/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/jquery.mobile-1.3.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/parse-1.2.8.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17685" selection-start="81755" selection-end="81755" vertical-scroll-proportion="0.06238532" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/cordova.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-9.707386" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/confirmation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="36" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/channel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="59" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/android/xml/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="4" selection-start="1619" selection-end="1619" vertical-scroll-proportion="0.66096866" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/facebook-js-sdk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9105" column="41" selection-start="314071" selection-end="314077" vertical-scroll-proportion="-4.16" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Darren.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="35" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/cdv-plugin-fb-connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="48" selection-start="382" selection-end="382" vertical-scroll-proportion="-1.6638176" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="49" selection-start="3504" selection-end="3504" vertical-scroll-proportion="0.031021899">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="55" selection-start="2939" selection-end="2939" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="79" selection-start="1613" selection-end="1615" vertical-scroll-proportion="0.0">
+        <state line="47" column="5" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.33205375">
           <folding />
         </state>
       </provider>
