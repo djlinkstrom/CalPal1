@@ -2,85 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.index.html.swp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/action-eating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/action-location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/action-people.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/cheeseburger-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/cheeseburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/cheeseburger@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/chinese-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/chinese.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/chinese@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/french-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/french.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/french@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/hotdog-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/hotdog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/hotdog@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-57-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-72-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/images/icons-18-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/images/icons-18-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/images/icons-36-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/images/icons-36-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/indian-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/indian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/indian@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/italian-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/italian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/italian@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/meal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/pizza-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/pizza.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/pizza@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-ipad-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-landscape.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/res/screen/ios/screen-iphone-portrait.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/scrumptious_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/scrumptious_logo_large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/thai-full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/thai.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/meals/thai@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cdv-plugin-fb-connect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cheeseburger.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/chinese.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/facebook-js-sdk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/french.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/hotdog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/indian.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/italian.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery.mobile-1.2.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.mobile-1.2.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/mustache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/pizza.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/thai.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/facebook-js-sdk.js" afterPath="$PROJECT_DIR$/www/facebook-js-sdk.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113746194" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113951399" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374025455398" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
     <file path="/Darren.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373247817143" ignored="false" />
     <file path="/confirmation.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373248005710" ignored="false" />
     <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374022530218" ignored="false" />
-    <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
+    <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113972903" ignored="false" />
     <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374026012890" ignored="false" />
     <file path="/chinese.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113226696" ignored="false" />
     <file path="/cheeseburger.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374113232945" ignored="false" />
@@ -108,11 +42,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="5" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.33205375">
+            <state line="47" column="5" selection-start="1158" selection-end="1158" vertical-scroll-proportion="-6.92">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facebook-js-sdk.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/facebook-js-sdk.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="872" column="61" selection-start="25926" selection-end="25926" vertical-scroll-proportion="0.33333334">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1374113987333" expanded="false" signature="136656:136667" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,7 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/android/config.xml" />
         <option value="$PROJECT_DIR$/lib/facebook-js-sdk.js" />
         <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/config.xml" />
@@ -161,6 +117,7 @@
         <option value="$PROJECT_DIR$/example/Scrumptious/server/chinese.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/main.js" />
+        <option value="$PROJECT_DIR$/www/facebook-js-sdk.js" />
       </list>
     </option>
   </component>
@@ -478,7 +435,11 @@
       <created>1374113747630</created>
       <updated>1374113747630</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Made CalPal Changes in WebStorm">
+      <created>1374113862952</created>
+      <updated>1374113862952</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -505,11 +466,11 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291815" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32820514" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32562277" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6837607" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24274014" sideWeight="0.6717949" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -597,8 +558,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="5" selection-start="1158" selection-end="1158" vertical-scroll-proportion="0.33205375">
+        <state line="47" column="5" selection-start="1158" selection-end="1158" vertical-scroll-proportion="-6.92">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/facebook-js-sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="872" column="61" selection-start="25926" selection-end="25926" vertical-scroll-proportion="0.33333334">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1374113987333" expanded="false" signature="136656:136667" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -870,7 +870,7 @@ FB.provide('Flash', {
           ) +
           'allowscriptaccess="always">' +
           '<param name="movie" value="' + swf + '"></param>' +
-          '<param name="allowscriptaccess" value="always"></param>' +
+          '<param name="allowscriptaccess" value="always"> </param>' +
         '</object>'
       );
 
@@ -14574,8 +14574,7 @@ FB.subclass('XFBML.Subscribe', 'XFBML.EdgeWidget', null, {
  *
  * @nolint
  * @provides fb.all
- * @requires
- *   fb.api
+ * @requires  fb.api
  *   fb.auth
  *   fb.canvas
  *   fb.canvas.insights
