@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82178188-8ad3-4472-be01-75b4da88027c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/google-auth.js" afterPath="$PROJECT_DIR$/lib/google-auth.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374456005723" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374456267331" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374456261345" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -17,7 +17,7 @@
     <file path="/config.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374022530218" ignored="false" />
     <file path="/facebook-js-sdk.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373850623129" ignored="false" />
     <file path="/auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374116222970" ignored="false" />
-    <file path="/google-auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374455872165" ignored="false" />
+    <file path="/google-auth.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374457120891" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,19 +37,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="32" selection-start="590" selection-end="590" vertical-scroll-proportion="0.6979472">
+            <state line="14" column="32" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="google-auth.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="google-auth.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/google-auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="2398" selection-end="2398" vertical-scroll-proportion="-6.12">
+            <state line="69" column="60" selection-start="2820" selection-end="2820" vertical-scroll-proportion="0.30409357">
               <folding />
             </state>
           </provider>
@@ -143,9 +143,9 @@
         <option value="$PROJECT_DIR$/lib/main.js" />
         <option value="$PROJECT_DIR$/lib/auth.js" />
         <option value="$PROJECT_DIR$/lib/ChildBrowser.js" />
-        <option value="$PROJECT_DIR$/lib/google-auth.js" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/lib/google-auth.js" />
       </list>
     </option>
   </component>
@@ -499,7 +499,11 @@
       <created>1374456007727</created>
       <updated>1374456007727</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Made CalPal Changes in WebStorm">
+      <created>1374456270973</created>
+      <updated>1374456270973</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -690,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/google-auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2398" selection-end="2398" vertical-scroll-proportion="-6.12">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="0" selection-start="3882" selection-end="3882" vertical-scroll-proportion="0.0">
@@ -706,7 +703,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="590" selection-end="590" vertical-scroll-proportion="0.6979472">
+        <state line="14" column="32" selection-start="590" selection-end="590" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/google-auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="60" selection-start="2820" selection-end="2820" vertical-scroll-proportion="0.30409357">
           <folding />
         </state>
       </provider>
