@@ -55,6 +55,7 @@
         <param name="APP_ID" value="428574547256032" />
         <param name="APP_NAME" value="CalPal" />
     </gap:plugin>
+    <gap:plugin name="ChildBrowser" />
 
     <!-- Define app icon for each platform. -->
     <icon src="CalPal2.jpg" gap:platform="android"    gap:density="ldpi" />/>
