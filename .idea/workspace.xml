@@ -8,7 +8,7 @@
     </list>
     <ignored path="phonegap-workshop-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374456267331" ignored="false" />
+    <file path="/Dummy.txt" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374457311134" ignored="false" />
     <file path="/index.html" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1374456261345" ignored="false" />
     <file path="/main.js" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1373840946828" ignored="false" />
     <file path="$USER_HOME$/phonegap-workshop-master/.idea/workspace.xml" changelist="82178188-8ad3-4472-be01-75b4da88027c" time="1372949346179" ignored="false" />
@@ -49,7 +49,7 @@
       <file leaf-file-name="google-auth.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/google-auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="60" selection-start="2820" selection-end="2820" vertical-scroll-proportion="0.30409357">
+            <state line="68" column="52" selection-start="2766" selection-end="2766" vertical-scroll-proportion="0.25438598">
               <folding />
             </state>
           </provider>
@@ -503,7 +503,11 @@
       <created>1374456270973</created>
       <updated>1374456270973</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Made CalPal Changes in WebStorm">
+      <created>1374457315508</created>
+      <updated>1374457315508</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -710,7 +714,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/google-auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="60" selection-start="2820" selection-end="2820" vertical-scroll-proportion="0.30409357">
+        <state line="68" column="52" selection-start="2766" selection-end="2766" vertical-scroll-proportion="0.25438598">
           <folding />
         </state>
       </provider>
